@@ -1,13 +1,9 @@
 # TRABAJO FINAL: *DF.CL Y DIARIOESTRATEGIA.CL*
-###Extrayendo y analizando datos
-
-#####Bárbara Gajardo, Francisca Mena.
-
-#####Profesor: Amaru Fernández.
-
-#####Electivo: BigData.
-
-#####30 de julio, 2021.
+ ### Extrayendo y analizando datos
+##### Bárbara Gajardo, Francisca Mena.
+##### Profesor: Amaru Fernández.
+##### Electivo: BigData.
+##### 30 de julio, 2021.
 
 
 #### Introducción
@@ -21,7 +17,7 @@ El objetivo del presente trabajo, es extraer información contenida en las pági
 - Se realizará una busqueda de las primeras páginas de cada categoría con el objetivo de identificar las noticias más recientes.
 
 
-####Categoría Mercado
+#### Categoría Mercado
 -De acuerdo al scrapping realizado al sitio web del Diario Financiero, pudimos obtener las siguientes noticias:
 
   -  Quería pero no pudo: Robinhood apostaba por ser sensación en Wall Street pero se transformó en la peor apertura de la historia en su categoría
@@ -89,13 +85,13 @@ El objetivo del presente trabajo, es extraer información contenida en las pági
 
 
 
-###Diario Estrategia
+### Diario Estrategia
 - La página web contiene diferentes secciones de noticias, las que se analizarán principalmente serán "Economía y Finanzas" y "Mercado y Tendencias"
 - Esta página web tiene la particuaridad de mostrar solo 25 noticias, y no cuenta con número de páginas. Esto ocurre en todas sus secciones.
 - Por lo tanto vamos a extraer todo el contenido de las noticias que muestra la página única, tales como: título, bajada de título y link de la noticia. 
 - Estas noticias se van actualizando constantemente, por lo que las noticias que expondremos en el informe, puede que sean distintas dependiendo de cuándo se ejecute el código realizado a través de Rstudio.
 
-####Categoría Economía y Finanzas
+#### Categoría Economía y Finanzas
 De acuerdo al scrapping realizado a la página web diarioestrategia.cl, obtuvimos las siguientes noticias:
 
 - ###### Colocaciones del sistema bancario cayeron 4,9% anual a junio: 
@@ -321,7 +317,7 @@ El fuerte avance del cobre incidió en el fortalecimiento del peso.
 #### Conclusiones
 
 Si bien ambas páginas nos entregan noticias similares entre ellas, sus formatos de presentación son distintos. Por un lado el diario financiero, al ser un sitio de suscripción no deja acceder a la noticia completa, y por otro lado el Diario Estrategia muestra una bajada de título y al hacer click en el título de la noticia, nos permite conocer más a fondo el contenido de esta.
-Así también existe una diferencia entre el formato de las páginas. Df.cl va almacenando las noticias expuestas a través de páginas que se pueden ir revisando hacia las más antiguas. No así Diario Estrategia, que sólo muestra un total de 25 noticias, y las últimas se van perdiendo a medida que se actualizan.
+Así también existe una diferencia entre el formato de las páginas. Df.cl va almacenando las noticias expuestas a través de páginas que se pueden ir revisando hacia las más antiguas. No así DiarioEstrategia.cl, que sólo muestra un total de 25 noticias, y las últimas se van perdiendo a medida que se actualizan.
 
 
 
