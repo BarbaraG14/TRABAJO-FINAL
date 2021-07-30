@@ -1,9 +1,14 @@
 # TRABAJO FINAL: *DF.CL Y DIARIOESTRATEGIA.CL*
 ###Extrayendo y analizando datos
+
 #####Bárbara Gajardo, Francisca Mena.
+
 #####Profesor: Amaru Fernández.
+
 #####Electivo: BigData.
+
 #####30 de julio, 2021.
+
 
 #### Introducción
 
